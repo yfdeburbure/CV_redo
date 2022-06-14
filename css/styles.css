@@ -1,12 +1,11 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=El+Messiri:wght@500&family=League+Spartan:wght@100&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Poppins:wght@300&display=swap');
 /* Styles for the body */
 
 body {
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-family: 'Fascinate', cursive; font-family: 'Poppins', sans-serif;
 	color: #202030;
 	background-color: #e3a72f;
 }
@@ -14,6 +13,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
+	font-family: 'Fascinate', cursive;
     background-color: #058789;
 	color: #f0ecc9
 }
@@ -24,6 +24,7 @@ body {
 }
 
 .resume-aside {
+	font-family: 'Fascinate', cursive;
 	background-color: #d54b1a;
 	color: #f0ecc9
 }
